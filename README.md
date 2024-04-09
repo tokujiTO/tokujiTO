@@ -1,4 +1,4 @@
-<h1 align="center">Helloo Tiago Massuda</h1>
+
 <h3 align="center">Eu sou um aluno de primeiro ano de ciência da computação, entusiasta de física e matemática</h3>
 <h4 align="center">Meus hobbies: Gosto de estudar sobre psicologia, filosofias orientais, fotografia, jogar e treinar!</h4>
 
