@@ -2,8 +2,6 @@
 <h3 align="center">Eu sou um aluno de primeiro ano de ciência da computação, entusiasta de física e matemática</h3>
 <h4 align="center">Meus hobbies: Gosto de estudar sobre psicologia, filosofias orientais, fotografia, jogar e treinar!</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tokujito&label=Profile%20views&color=0e75b6&style=flat" alt="tokujito" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tiago tokugi massuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago tokugi massuda" height="30" width="40" /></a>
