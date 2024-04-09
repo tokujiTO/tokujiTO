@@ -1,5 +1,5 @@
-
-<h3 align="center">Eu sou um aluno de primeiro ano de ciência da computação, entusiasta de física e matemática</h3>
+<h1>HELLOO!</h1>
+<h3 align="center">Meu nome é Tiago Massuda, <br> eu sou um aluno de primeiro ano de ciência da computação, entusiasta de física e matemática</h3>
 <h4 align="center">Meus hobbies: Gosto de estudar sobre psicologia, filosofias orientais, fotografia, jogar e treinar!</h4>
 
 <h3 align="left">Connect with me:</h3>
