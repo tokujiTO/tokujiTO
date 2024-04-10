@@ -3,13 +3,13 @@
 <h4 align="justified">Eu sou um aluno de primeiro ano de ciência da computação, entusiasta de física e matemática</h4>
 <h4 align="justified">Meus hobbies: Gosto de estudar sobre psicologia, filosofias orientais, fotografia, jogar e treinar!</h4>
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/tiago tokugi massuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tiago tokugi massuda" height="30" width="40" /></a>
-<a href="https://instagram.com/tokuji_massuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tokuji_massuda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tiago-tokugi-massuda-557759285" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://instagram.com/tokuji_massuda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
@@ -20,6 +20,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h1>Stats:</h1>
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="tokujito" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokujito&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="tokujito" />
