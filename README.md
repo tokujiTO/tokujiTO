@@ -1,7 +1,7 @@
 <h1>HELLOO!</h1>
 <div>
   <h2>Meu nome é Tiago Massuda!</h2>
-  <img align="right" height="200px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg"/>
+  <img align="right" height="180px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg"/>
   <p align="justify" text_align="justify">🎩 Eu sou um estudante do primeiro ano de <strong>ciência da computação</strong> no <strong>Instituto Mauá de Tecnologia</strong>, sou um entusiasta de <strong>física</strong>, <strong>matemática</strong> e gosto de estudar assuntos da área da psicologia e de filosofias orientais também, no Ensino Médio participei de diversas <strong>olimpíadas estudantis</strong> como a canguru de matemática e a OBMEP.</p>
   <p>📸 Meus hobbies: gosto de <strong>fotografia</strong>, <strong>ler</strong>, <strong>treinar</strong> e <strong>jogar</strong>.</p>
   <p>🪻 Minhas habilidades: Tenho grande facilidade com uso de <strong>lógica para resolver problemas</strong> com uso de principalmente mas não limitado a conhecimentos matemáticos, sou uma pessoa extremamente <strong>organizada e gosto de rotina</strong>, tenho facilidade no trabalho em equipe tanto ao <strong>intermediar ou liderar projetos</strong> como para <strong>cumprir objetivos</strong> a mim direcionados de forma <strong>eficiente</strong>, além disso eu absorvo novos conteúdos com uma facilidade considerável <strong>aprendendo coisas novas rapidamente</strong>.</p>
