@@ -33,9 +33,9 @@
 <div>
   <h2>Stats:</h2>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake.svg" />
   </picture>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="tokujito" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokujito&theme=midnight-purple&show_icons=true" alt="tokujito" />
