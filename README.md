@@ -1,10 +1,12 @@
 <h1>HELLOO!</h1>
 <div>
   <h2>Meu nome é Tiago Massuda!</h2>
-  <h4 align="justified"><p>Eu sou um estudante do primeiro ano de ciência da computação no Instituto Mauá de Tecnologia, sou um entusiasta de física, matemática e gosto de estudar assuntos da área da psicologia e de filosofias orientais também, no Ensino Médio participei de diversas olimpíadas estudantis como a canguru de matemática e a OBMEP.</p>
+  <img align="right" height="250px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg"/>
+  <h4 align="justified" text_align="justify"><p>Eu sou um estudante do primeiro ano de ciência da computação no Instituto Mauá de Tecnologia, sou um entusiasta de física, matemática e gosto de estudar assuntos da área da psicologia e de filosofias orientais também, no Ensino Médio participei de diversas olimpíadas estudantis como a canguru de matemática e a OBMEP.</p>
   <p>Meus hobbies: gosto de fotografia, ler, treinar e jogar.</p>
   <p>Minhas habilidades: Tenho grande facilidade com uso de lógica para resolver problemas com uso de principalmente mas não limitado a conhecimentos matemáticos, sou uma pessoa extremamente organizada e gosto de rotina, tenho facilidade no trabalho em equipe tanto ao intermediar ou liderar projetos como para cumprir objetivos a mim direcionados de forma eficiente, além disso eu absorvo novos conteúdos com uma facilidade considerável aprendendo coisas novas rapidamente.</p></h4>
 </div>
+
 
 <div>
   <h2>Connect with me:</h2>
