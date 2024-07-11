@@ -11,16 +11,16 @@
 
 
 <div>
-  <h2>Connect with me:</h2>
-  <p align="left">
+  <h2 aling="center">Connect with me:</h2>
+  <p align="center">
   <a href="https://www.linkedin.com/in/tiago-tokugi-massuda-557759285" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/tokuji_massuda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
 </div>
 
 <div>
-  <h2>Languages and Tools:</h2>
-  <p align="left"> 
+  <h2 align="center">Languages and Tools:</h2>
+  <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <h2>Stats:</h2>
+  <h2 align="center">Stats:</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="tokujito" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokujito&theme=midnight-purple&show_icons=true" alt="tokujito" />
   <picture>
