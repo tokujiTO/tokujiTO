@@ -10,9 +10,9 @@
 </div>
 
 
-<div>
+<div align="center">
   <h2>Connect with me:</h2>
-  <p align="left">
+  <p align="center">
   <a href="https://www.linkedin.com/in/tiago-tokugi-massuda-557759285" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/tokuji_massuda"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </p>
@@ -30,7 +30,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 </div>
 
-<div>
+<div align="center">
   <h2>Stats:</h2>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="tokujito" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokujito&theme=midnight-purple&show_icons=true" alt="tokujito" />
