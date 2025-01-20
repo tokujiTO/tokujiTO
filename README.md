@@ -2,7 +2,7 @@
 <div>
   <h2>Meu nome é Tiago Massuda!</h2>
   <img align="right" height="130px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg"/>
-  <p align="justify" text_align="justify">🎩 Eu sou um estudante do primeiro ano de <strong>ciência da computação</strong> no <strong>Instituto Mauá de Tecnologia</strong>, sou um entusiasta de <strong>física</strong>, <strong>matemática</strong> e gosto de estudar assuntos da área da psicologia e de filosofias orientais também, no Ensino Médio participei de diversas <strong>olimpíadas estudantis</strong> como a canguru de matemática e a OBMEP.</p>
+  <p align="justify" text_align="justify">🎩 Eu sou um estudante do segundo ano de <strong>ciência da computação</strong> no <strong>Instituto Mauá de Tecnologia</strong>, sou um entusiasta de <strong>física</strong>, <strong>matemática</strong> e gosto de estudar assuntos da área da psicologia e de filosofias orientais também, no Ensino Médio participei de diversas <strong>olimpíadas estudantis</strong> como a canguru de matemática e a OBMEP.</p>
   <p align="justify" text_align="justify">📸 Meus hobbies: gosto de <strong>fotografia</strong>, <strong>ler</strong>, <strong>treinar</strong> e <strong>jogar</strong>.</p>
 </div>
 <div>
