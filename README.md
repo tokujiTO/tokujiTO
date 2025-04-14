@@ -21,10 +21,10 @@
 <div align="center">
   <h2>Languages and Tools:</h2>
   <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp,bash,git&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp,git&theme=dark"/>
   </p>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=mongo,mysql,vscode,anaconda,vim,figma,azure&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,vscode,anaconda,figma,azure&theme=dark"/>
   </p>
 </div>
 
