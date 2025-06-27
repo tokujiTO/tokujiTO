@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🛠️ Linguagens & Ferramentas</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp,git&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp,git,dart,flutter&theme=dark" alt="Languages" />
   </p>
   <p>
     <img src="https://skillicons.dev/icons?i=mongo,mysql,vscode,nodejs,githubactions,anaconda,aws,figma,azure&theme=dark" alt="Tools" />
