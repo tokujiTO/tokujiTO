@@ -2,7 +2,7 @@
 
 <div>
   <h2>👨‍💻 Sobre mim</h2>
-  <img align="right" height="130px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg" alt="Anime profile aesthetic" />
+<!--   <img align="right" height="130px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg" alt="Anime profile aesthetic" /> -->
 
   <p align="justify">
     Olá! Meu nome é <strong>Tiago Massuda</strong> e atualmente sou estudante do segundo ano de <strong>Ciência da Computação</strong> no <strong>Instituto Mauá de Tecnologia</strong>.
