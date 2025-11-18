@@ -1,48 +1,42 @@
-<h1 align="center">YOO! 👋</h1>
+<h1 align="center">YOO!</h1>
 
-<div>
-  <h2>👨‍💻 Sobre mim</h2>
-<!--   <img align="right" height="130px" src="https://i.pinimg.com/564x/93/d7/8b/93d78bdde3d222e01d734a9952f44f84.jpg" alt="Anime profile aesthetic" /> -->
-
-  <p align="justify">
-    Olá! Meu nome é <strong>Tiago Massuda</strong> e atualmente sou estudante do segundo ano de <strong>Ciência da Computação</strong> no <strong>Instituto Mauá de Tecnologia</strong>.
-  </p>
-
-  <p align="justify">
-    Sou apaixonado por <strong>física</strong>, <strong>matemática</strong> e também tenho grande interesse por <strong>psicologia</strong> e <strong>filosofias orientais</strong>. Durante o Ensino Médio, participei de diversas <strong>olimpíadas estudantis</strong>, como a Canguru de Matemática e a OBMEP.
-  </p>
-
-  <p align="justify">
-    🎯 Meu foco está em resolver problemas com lógica, trabalhar bem em equipe, liderar ou colaborar em projetos, e aprender rápido — sempre com organização e rotina!
-  </p>
-</div>
+<h3 align="center">Tiago Massuda | Computer Science Student</h3>
 
 ---
 
-<div>
-  <h2>📸 Hobbies</h2>
-  <p align="justify">
-    Fora do mundo tech, gosto de explorar <strong>fotografia</strong>, <strong>leitura</strong>, <strong>exercícios físicos</strong> e <strong>games</strong>.
-  </p>
-</div>
+## About Me
+
+Hello! My name is **Tiago Massuda**, and I am currently in my second year of **Computer Science** at the **Mauá Institute of Technology** (IMT).
+
+My foundation is deeply rooted in **logic** and **abstraction**, fueled by a strong passion for **Physics** and **Mathematics**. I am currently seeking opportunities to apply my skills in **software development**, **data analysis**, and **cloud computing**.
+
+My expertise and focus areas include:
+* **Web/Mobile Development:** Leveraging **React**, **TypeScript**, and **Flutter**.
+* **Data Analysis & Automation:** Using **Excel/VBA**, **Power BI**, and the **Microsoft Graph API**.
+
+**My Approach:** I am highly **organized**, **disciplined**, and routine-oriented. I excel in **leading multi-cultural teams** and **teamwork**, and I am always committed to delivering results **efficiently** and reducing manual errors.
 
 ---
 
-<div>
-  <h2>🧠 Habilidades</h2>
-  <ul>
-    <li>Excelente raciocínio lógico, com base em matemática e abstração</li>
-    <li>Organizado, disciplinado e fã de rotina</li>
-    <li>Facilidade em <strong>trabalho em equipe</strong> e <strong>liderança</strong></li>
-    <li>Aprendizado rápido e autodidata</li>
-    <li>Comprometido com a entrega de resultados de forma <strong>eficiente</strong></li>
-  </ul>
+## Languages & Tools
+
+An overview of the technologies I work with or am actively learning.
+
+### Core Skills (Advanced/Intermediate)
+* **Front-end:** React, TypeScript, JavaScript, HTML/CSS.
+* **Mobile:** Flutter, Dart, React Native.
+* **Back-end/Data:** Python, Java, Node.js, MySQL, MongoDB, VBA.
+* **Cloud/DevOps:** Git/GitHub, Azure, AWS.
+* **Data Analysis Tools:** Excel, Power BI, R, Jupyter.
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,js,py,java,nodejs,mysql,mongo,vscode,azure,aws,git" alt="Linguagens e Ferramentas" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🌐 Conecte-se comigo</h2>
+  <h2>🌐 Connect With Me</h2>
   <a href="https://www.linkedin.com/in/tiago-tokugi-massuda-557759285" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -54,27 +48,15 @@
 ---
 
 <div align="center">
-  <h2>🛠️ Linguagens & Ferramentas</h2>
-  <p>
-    <img src="https://skillicons.dev/icons?i=py,java,react,html,css,js,ts,r,c,cpp,git,dart,flutter&theme=dark" alt="Languages" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongo,mysql,vscode,nodejs,githubactions,anaconda,aws,figma,azure&theme=dark" alt="Tools" />
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=pt-br" alt="GitHub Stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="GitHub Stats" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokujito&theme=midnight-purple&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🐍 Snake Animation</h2>
+  <h2>Contributions</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake.svg" />
