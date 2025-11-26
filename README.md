@@ -33,7 +33,7 @@ An overview of the technologies I use and am actively exploring.
 | **Data Analysis** | Excel, Power BI, R, Jupyter |
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,js,py,java,nodejs,mysql,mongo,vscode,azure,aws,git" alt="Linguagens e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=ts,react,flutter,dart,js,py,java,nodejs,flask,r,mysql,mongo,vscode,azure,aws,gcp,git,github,bash" alt="Linguagens e Ferramentas" />
 </div>
 
 ---
