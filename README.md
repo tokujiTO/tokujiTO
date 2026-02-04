@@ -52,17 +52,5 @@ An overview of the technologies I use and am actively exploring.
 
 <div align="center">
   <h2>GitHub Activity</h2>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tokujito&theme=midnight-purple&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokujito&theme=midnight-purple&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <h2>Recent Contributions</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/tokujiTO/tokujiTO/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=tokujiTO&theme=synthwave&hide_border=true&border_radius=3&date_format=%5BY.%5Dn.j&card_width=500&card_height=200" alt="GitHub Streak" /></a>
 </div>
