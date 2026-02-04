@@ -6,7 +6,7 @@
 
 ## About Me: Driven by Logic and Innovation
 
-Hello! My name is **Tiago Massuda**, and I am a second-year **Computer Science** student at the **Mauá Institute of Technology** (IMT).
+Hello! My name is **Tiago Massuda**, and I am a third-year **Computer Science** student at the **Mauá Institute of Technology** (IMT).
 
 My academic journey is built on a strong foundation in **logic** and **abstraction**, powered by my enthusiasm for **Physics** and **Mathematics**. I am actively seeking opportunities where I can combine my technical skills with my passion for problem-solving.
 
