@@ -50,7 +50,7 @@ An overview of the technologies I use and am actively exploring.
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <h2>GitHub Activity</h2>
   <a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=tokujiTO&theme=synthwave&hide_border=true&border_radius=3&date_format=%5BY.%5Dn.j&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-</div>
+</div> -->
